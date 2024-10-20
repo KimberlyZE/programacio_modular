@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arelys Castillo\\Desktop\\Modularidad_1y5\\Ejercicio1_evaluaci\u00F3n_S9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{111355B1-62FB-4DC1-A1B6-C3E6E3E54720}|Ejercicio1_evaluaci\u00F3n_S9\\Ejercicio1_evaluaci\u00F3n_S9.csproj|c:\\users\\arelys castillo\\desktop\\modularidad_1y5\\ejercicio1_evaluaci\u00F3n_s9\\ejercicio1_evaluaci\u00F3n_s9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111355B1-62FB-4DC1-A1B6-C3E6E3E54720}|Ejercicio1_evaluaci\u00F3n_S9\\Ejercicio1_evaluaci\u00F3n_S9.csproj|solutionrelative:ejercicio1_evaluaci\u00F3n_s9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111355B1-62FB-4DC1-A1B6-C3E6E3E54720}|Ejercicio1_evaluaci\u00F3n_S9\\Ejercicio1_evaluaci\u00F3n_S9.csproj|c:\\users\\arelys castillo\\desktop\\modularidad_1y5\\ejercicio1_evaluaci\u00F3n_s9\\ejercicio1_evaluaci\u00F3n_s9\\funcionesymetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111355B1-62FB-4DC1-A1B6-C3E6E3E54720}|Ejercicio1_evaluaci\u00F3n_S9\\Ejercicio1_evaluaci\u00F3n_S9.csproj|solutionrelative:ejercicio1_evaluaci\u00F3n_s9\\funcionesymetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionesYmetodos.cs",
+              "DocumentMoniker": "C:\\Users\\Arelys Castillo\\Desktop\\Modularidad_1y5\\Ejercicio1_evaluaci\u00F3n_S9\\Ejercicio1_evaluaci\u00F3n_S9\\FuncionesYmetodos.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_evaluaci\u00F3n_S9\\FuncionesYmetodos.cs",
+              "ToolTip": "C:\\Users\\Arelys Castillo\\Desktop\\Modularidad_1y5\\Ejercicio1_evaluaci\u00F3n_S9\\Ejercicio1_evaluaci\u00F3n_S9\\FuncionesYmetodos.cs",
+              "RelativeToolTip": "Ejercicio1_evaluaci\u00F3n_S9\\FuncionesYmetodos.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:40:04.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arelys Castillo\\Desktop\\Modularidad_1y5\\Ejercicio1_evaluaci\u00F3n_S9\\Ejercicio1_evaluaci\u00F3n_S9\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_evaluaci\u00F3n_S9\\Program.cs",
+              "ToolTip": "C:\\Users\\Arelys Castillo\\Desktop\\Modularidad_1y5\\Ejercicio1_evaluaci\u00F3n_S9\\Ejercicio1_evaluaci\u00F3n_S9\\Program.cs",
+              "RelativeToolTip": "Ejercicio1_evaluaci\u00F3n_S9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:39:26.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Arelys Castillo\Desktop\Modularidad_1y5\Ejercicio1_evaluación_S9\Ejercicio1_evaluación_S9\bin\Debug\Ejercicio1_evaluación_S9.exe.config
+C:\Users\Arelys Castillo\Desktop\Modularidad_1y5\Ejercicio1_evaluación_S9\Ejercicio1_evaluación_S9\bin\Debug\Ejercicio1_evaluación_S9.exe
+C:\Users\Arelys Castillo\Desktop\Modularidad_1y5\Ejercicio1_evaluación_S9\Ejercicio1_evaluación_S9\bin\Debug\Ejercicio1_evaluación_S9.pdb
+C:\Users\Arelys Castillo\Desktop\Modularidad_1y5\Ejercicio1_evaluación_S9\Ejercicio1_evaluación_S9\obj\Debug\Ejercicio1_evaluación_S9.csproj.AssemblyReference.cache
+C:\Users\Arelys Castillo\Desktop\Modularidad_1y5\Ejercicio1_evaluación_S9\Ejercicio1_evaluación_S9\obj\Debug\Ejercicio1_evaluación_S9.csproj.CoreCompileInputs.cache
+C:\Users\Arelys Castillo\Desktop\Modularidad_1y5\Ejercicio1_evaluación_S9\Ejercicio1_evaluación_S9\obj\Debug\Ejercicio1_evaluación_S9.exe
+C:\Users\Arelys Castillo\Desktop\Modularidad_1y5\Ejercicio1_evaluación_S9\Ejercicio1_evaluación_S9\obj\Debug\Ejercicio1_evaluación_S9.pdb
