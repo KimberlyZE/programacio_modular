@@ -42,5 +42,25 @@ namespace Ejercicio5_evaluacion_S9
                 Console.Write(arreglo[i] + " ");
             }
         }
+
+        // Método: contar e imprimir números impares en el arreglo
+        public static void ContarEImprimirImpares(int[] arreglo)
+        {
+            int contadorImpares = 0;
+
+            Console.Write("\nNúmeros impares: ");
+
+            // Recorre el arreglo y cuenta los números impares
+            foreach (int numero in arreglo)
+            {
+                if (numero % 2 != 0) // Verifica si el número es impar
+                {
+                    Console.Write(numero + " ");
+                    contadorImpares++;
+                }
+            }
+            // Imprime la cantidad de números impares
+            Console.WriteLine("\nCantidad de números impares: {0}", contadorImpares);
+        }
     }
 }
