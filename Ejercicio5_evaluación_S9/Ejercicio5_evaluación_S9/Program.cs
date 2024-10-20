@@ -39,6 +39,9 @@ namespace Ejercicio5_evaluacion_S9
 
             // Llama al método imprimirArregloInvertido para mostrar el arreglo en orden invertido
             funcionesYmetodos.imprimirArregloInvertido(numeros);
+
+            // Llama al nuevo método para contar e imprimir números impares
+            funcionesYmetodos.ContarEImprimirImpares(numeros);
             Console.ReadKey();
         }
     }
