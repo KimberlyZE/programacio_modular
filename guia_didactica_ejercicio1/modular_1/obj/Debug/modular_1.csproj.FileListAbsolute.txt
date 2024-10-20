@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\modular_1\modular_1\bin\Debug\modular_1.exe.config
+C:\Users\Administrador\source\repos\modular_1\modular_1\bin\Debug\modular_1.exe
+C:\Users\Administrador\source\repos\modular_1\modular_1\bin\Debug\modular_1.pdb
+C:\Users\Administrador\source\repos\modular_1\modular_1\obj\Debug\modular_1.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\modular_1\modular_1\obj\Debug\modular_1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\modular_1\modular_1\obj\Debug\modular_1.exe
+C:\Users\Administrador\source\repos\modular_1\modular_1\obj\Debug\modular_1.pdb

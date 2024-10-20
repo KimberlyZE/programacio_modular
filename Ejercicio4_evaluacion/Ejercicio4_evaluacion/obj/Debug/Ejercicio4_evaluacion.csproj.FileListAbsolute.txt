@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\Ejercicio4_evaluacion\Ejercicio4_evaluacion\obj\Debug\Ejercicio4_evaluacion.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Ejercicio4_evaluacion\Ejercicio4_evaluacion\obj\Debug\Ejercicio4_evaluacion.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Ejercicio4_evaluacion\Ejercicio4_evaluacion\bin\Debug\Ejercicio4_evaluacion.exe.config
+C:\Users\Administrador\source\repos\Ejercicio4_evaluacion\Ejercicio4_evaluacion\bin\Debug\Ejercicio4_evaluacion.exe
+C:\Users\Administrador\source\repos\Ejercicio4_evaluacion\Ejercicio4_evaluacion\bin\Debug\Ejercicio4_evaluacion.pdb
+C:\Users\Administrador\source\repos\Ejercicio4_evaluacion\Ejercicio4_evaluacion\obj\Debug\Ejercicio4_evaluacion.exe
+C:\Users\Administrador\source\repos\Ejercicio4_evaluacion\Ejercicio4_evaluacion\obj\Debug\Ejercicio4_evaluacion.pdb
